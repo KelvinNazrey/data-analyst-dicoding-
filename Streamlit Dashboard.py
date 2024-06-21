@@ -7,6 +7,9 @@ import requests
 import io
 import matplotlib.image as mpimg
 import urllib.request
+streamlit==1.33
+streamlit-lottie==0.0.5
+
 
 # Function to download and extract ZIP file
 def download_and_extract_zip(url, extract_to='.'):
