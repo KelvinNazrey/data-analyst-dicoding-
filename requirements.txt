@@ -1,0 +1,6 @@
+pandas
+numpy>=1.23.2
+matplotlib
+seaborn
+streamlit
+requests
