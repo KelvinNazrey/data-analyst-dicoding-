@@ -30,7 +30,7 @@ pip install -r requirements.txt
 ```
 
 ## Usage
-1. **Data Wrangling**: Data wrangling scripts are available in the `Proyek_Analisis_Data_KelvinNazrey.ipynb` file to prepare and clean the data.
+1. **Data Wrangling**: Data wrangling scripts are available in the `Proyek_Analisis_Data_Kelvin_Nazrey.ipynb` file to prepare and clean the data.
 
 2. **Exploratory Data Analysis (EDA)**: Explore and analyze the data using the provided Python scripts. EDA insights can guide your understanding of e-commerce public data patterns.
 
