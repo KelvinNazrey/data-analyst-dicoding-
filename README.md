@@ -9,9 +9,9 @@ https://kelvin-nazrey.streamlit.app/
 This project is a data analysis and visualization project focused on e-commerce public data. It includes code for data wrangling, exploratory data analysis (EDA), and a Streamlit dashboard for interactive data exploration. This project aims to analyze data on the E-Commerce Public Dataset.
 
 ## Project Structure
-- `dashboard/`: This directory contains dashboard.py which is used to create dashboards of data analysis results.
+- `dashboard/`: This directory contains Streamlit_Dashboard.py which is used to create dashboards of data analysis results.
 - all_data.zip : Directory containing the raw CSV data files.
-- Proyek_Analisis_Data_KelvinNazrey.ipynb: This file is used to perform data analysis.
+- Proyek_Analisis_Data_Kelvin_Nazrey.ipynb: This file is used to perform data analysis.
 - Dashboard/requirements.txt : for module
 - `README.md`: This documentation file.
 
@@ -38,7 +38,7 @@ pip install -r requirements.txt
 
 ```
 cd data-analyst-dicoding/dashboard
-streamlit run dashboard.py
+streamlit run Streamlit_Dashboard.py
 ```
 Access the dashboard in your web browser at `http://localhost:8501`.
 
